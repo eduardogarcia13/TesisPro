@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina4_7" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -518,7 +518,7 @@
                                 <rect key="frame" x="44" y="512" width="287" height="49"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.17236307670000001" green="0.81326612379999996" blue="0.92649240509999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <state key="normal" title="Día 1">
+                                <state key="normal" title="Día 7">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
@@ -1323,7 +1323,7 @@ Nota:
                                 <rect key="frame" x="44" y="494" width="287" height="49"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.17236307670000001" green="0.81326612379999996" blue="0.92649240509999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <state key="normal" title="Día 1">
+                                <state key="normal" title="Día7">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
@@ -1867,7 +1867,7 @@ Nota:
                                 <rect key="frame" x="44" y="494" width="287" height="49"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.17236307665449568" green="0.8132661238257235" blue="0.92649240511599584" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <state key="normal" title="Día 1">
+                                <state key="normal" title="Día 7">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
@@ -2046,7 +2046,7 @@ Nota:
                                 <rect key="frame" x="44" y="511" width="287" height="49"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.17236307670000001" green="0.81326612379999996" blue="0.92649240509999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <state key="normal" title="Día 1">
+                                <state key="normal" title="Día 7">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
@@ -3095,12 +3095,16 @@ Nota:
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
+        <segue reference="RW7-3y-ftI"/>
+        <segue reference="fhh-sa-D3F"/>
+        <segue reference="urx-xo-12r"/>
+        <segue reference="wYb-Oq-8A1"/>
         <segue reference="G2M-Le-LKp"/>
         <segue reference="sH4-fC-NqL"/>
         <segue reference="JoL-HS-Ply"/>
         <segue reference="oYe-PU-f5O"/>
         <segue reference="9hJ-nO-3e2"/>
-        <segue reference="vcC-ei-gZ9"/>
+        <segue reference="CQ5-Hs-See"/>
         <segue reference="oN0-aa-17n"/>
         <segue reference="hlG-zd-6St"/>
         <segue reference="apb-u8-alA"/>
