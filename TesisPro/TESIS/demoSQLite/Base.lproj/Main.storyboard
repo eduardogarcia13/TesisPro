@@ -3034,15 +3034,15 @@ Nota:
                                 <rect key="frame" x="17" y="163" width="140" height="100"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Dieta modificada en calorías" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wKU-HA-IHG">
-                                <rect key="frame" x="17" y="110" width="215" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Dieta modificada con fibra" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wKU-HA-IHG">
+                                <rect key="frame" x="17" y="110" width="200" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" red="0.14006074739999999" green="0.65875267309999996" blue="0.74430901419999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Dieta modificada con fibra" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CZR-0K-FYN">
-                                <rect key="frame" x="17" y="330" width="200" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Dieta modificada en calorías" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CZR-0K-FYN">
+                                <rect key="frame" x="17" y="330" width="215" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" red="0.14006074739999999" green="0.65875267309999996" blue="0.74430901419999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -3095,17 +3095,13 @@ Nota:
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="RW7-3y-ftI"/>
-        <segue reference="fhh-sa-D3F"/>
-        <segue reference="urx-xo-12r"/>
-        <segue reference="wYb-Oq-8A1"/>
         <segue reference="G2M-Le-LKp"/>
         <segue reference="sH4-fC-NqL"/>
         <segue reference="JoL-HS-Ply"/>
         <segue reference="oYe-PU-f5O"/>
         <segue reference="9hJ-nO-3e2"/>
         <segue reference="CQ5-Hs-See"/>
-        <segue reference="oN0-aa-17n"/>
+        <segue reference="1pA-DG-FPN"/>
         <segue reference="hlG-zd-6St"/>
         <segue reference="apb-u8-alA"/>
     </inferredMetricsTieBreakers>
