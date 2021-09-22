@@ -912,7 +912,7 @@ Nota:
                                     <color key="titleColor" red="0.14006074739999999" green="0.65875267309999996" blue="0.74430901419999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
-                                    <segue destination="Azl-sh-r8F" kind="show" id="gkx-0e-Ec1"/>
+                                    <segue destination="Azl-sh-r8F" kind="show" id="C7X-Ec-JTE"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -2442,7 +2442,7 @@ Nota:
                                     <color key="titleColor" red="0.14006074739999999" green="0.65875267309999996" blue="0.74430901419999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
-                                    <segue destination="YLR-Qo-V1X" kind="show" id="6FO-m9-QDl"/>
+                                    <segue destination="YLR-Qo-V1X" kind="show" id="6WX-GN-b5q"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -3095,12 +3095,14 @@ Nota:
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
+        <segue reference="lBv-A5-pM6"/>
+        <segue reference="fhh-sa-D3F"/>
         <segue reference="G2M-Le-LKp"/>
-        <segue reference="sH4-fC-NqL"/>
-        <segue reference="JoL-HS-Ply"/>
+        <segue reference="6WX-GN-b5q"/>
+        <segue reference="hna-MQ-KHY"/>
         <segue reference="oYe-PU-f5O"/>
-        <segue reference="9hJ-nO-3e2"/>
-        <segue reference="CQ5-Hs-See"/>
+        <segue reference="C7X-Ec-JTE"/>
+        <segue reference="vcC-ei-gZ9"/>
         <segue reference="1pA-DG-FPN"/>
         <segue reference="hlG-zd-6St"/>
         <segue reference="apb-u8-alA"/>
