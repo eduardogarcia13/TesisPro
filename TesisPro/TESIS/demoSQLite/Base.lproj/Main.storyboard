@@ -912,7 +912,7 @@ Nota:
                                     <color key="titleColor" red="0.14006074739999999" green="0.65875267309999996" blue="0.74430901419999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
-                                    <segue destination="Azl-sh-r8F" kind="show" id="C7X-Ec-JTE"/>
+                                    <segue destination="Azl-sh-r8F" kind="show" id="pye-AL-6Wx"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -1107,6 +1107,9 @@ Nota:
                                 <state key="normal" title="Regresar">
                                     <color key="titleColor" red="0.14006074739999999" green="0.65875267309999996" blue="0.74430901419999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
+                                <connections>
+                                    <segue destination="2wP-kO-jvI" kind="show" id="SeY-59-1B3"/>
+                                </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="BrazoDia4" translatesAutoresizingMaskIntoConstraints="NO" id="SP4-tx-L4X">
                                 <rect key="frame" x="98" y="148" width="174" height="129"/>
@@ -3096,12 +3099,11 @@ Nota:
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="lBv-A5-pM6"/>
-        <segue reference="fhh-sa-D3F"/>
         <segue reference="G2M-Le-LKp"/>
         <segue reference="6WX-GN-b5q"/>
         <segue reference="hna-MQ-KHY"/>
-        <segue reference="oYe-PU-f5O"/>
-        <segue reference="C7X-Ec-JTE"/>
+        <segue reference="SeY-59-1B3"/>
+        <segue reference="pye-AL-6Wx"/>
         <segue reference="vcC-ei-gZ9"/>
         <segue reference="1pA-DG-FPN"/>
         <segue reference="hlG-zd-6St"/>
