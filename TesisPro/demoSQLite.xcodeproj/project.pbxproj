@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F06A5452719E767005A79DF /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0F06A5442719E767005A79DF /* Inceptionv3.mlmodel */; };
 		0F2709FB2666CDC300EEE107 /* CalculadoraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F2709FA2666CDC300EEE107 /* CalculadoraViewController.swift */; };
-		0FBAAD9C25F6E98100CB69B9 /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0FBAAD9B25F6E98100CB69B9 /* Inceptionv3.mlmodel */; };
 		0FEF0DDF25DDC69C00FBC474 /* CoreMLViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FEF0DDE25DDC69C00FBC474 /* CoreMLViewController.swift */; };
 		F497DB4A2440547900B651D7 /* DBHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F497DB492440547800B651D7 /* DBHandler.swift */; };
 		F497DB4C24405BDA00B651D7 /* testDB.db in Resources */ = {isa = PBXBuildFile; fileRef = F497DB4B24405BDA00B651D7 /* testDB.db */; };
@@ -22,8 +22,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F06A5442719E767005A79DF /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Inceptionv3.mlmodel; path = ../../Inceptionv3.mlmodel; sourceTree = "<group>"; };
 		0F2709FA2666CDC300EEE107 /* CalculadoraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculadoraViewController.swift; sourceTree = "<group>"; };
-		0FBAAD9B25F6E98100CB69B9 /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Inceptionv3.mlmodel; path = ../../Inceptionv3.mlmodel; sourceTree = "<group>"; };
 		0FEF0DDE25DDC69C00FBC474 /* CoreMLViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoreMLViewController.swift; sourceTree = "<group>"; };
 		F497DB492440547800B651D7 /* DBHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBHandler.swift; sourceTree = "<group>"; };
 		F497DB4B24405BDA00B651D7 /* testDB.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = testDB.db; sourceTree = "<group>"; };
@@ -52,6 +52,7 @@
 		F4BB550E243FA99600BA7988 = {
 			isa = PBXGroup;
 			children = (
+				0F06A5442719E767005A79DF /* Inceptionv3.mlmodel */,
 				F4BB5519243FA99600BA7988 /* demoSQLite */,
 				F4BB5518243FA99600BA7988 /* Products */,
 			);
@@ -68,7 +69,6 @@
 		F4BB5519243FA99600BA7988 /* demoSQLite */ = {
 			isa = PBXGroup;
 			children = (
-				0FBAAD9B25F6E98100CB69B9 /* Inceptionv3.mlmodel */,
 				F497DB4B24405BDA00B651D7 /* testDB.db */,
 				F497DB492440547800B651D7 /* DBHandler.swift */,
 				F497DB4D24405CD600B651D7 /* registerVC.swift */,
@@ -162,9 +162,9 @@
 				F497DB4E24405CD600B651D7 /* registerVC.swift in Sources */,
 				F4BB551D243FA99600BA7988 /* ViewController.swift in Sources */,
 				0F2709FB2666CDC300EEE107 /* CalculadoraViewController.swift in Sources */,
+				0F06A5452719E767005A79DF /* Inceptionv3.mlmodel in Sources */,
 				0FEF0DDF25DDC69C00FBC474 /* CoreMLViewController.swift in Sources */,
 				F4BB551B243FA99600BA7988 /* AppDelegate.swift in Sources */,
-				0FBAAD9C25F6E98100CB69B9 /* Inceptionv3.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
