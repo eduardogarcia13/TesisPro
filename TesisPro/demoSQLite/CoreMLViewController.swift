@@ -48,7 +48,8 @@ class CoreMLViewController: UIViewController, UIImagePickerControllerDelegate, U
                          return String(format: "%. 1f%% %@", clasificacion.confidence * 100, clasificacion.identifier )
                      }
                      DispatchQueue.main.async {
-                         self.ClasificacionLb.text = "Clasificación:" + descripcion.joined(separator: "\n")
+                         self.ClasificacionLb.text =
+                         "Con base a la imagen, se está trabajando lo siguiente:\n" + descripcion.joined(separator: "\t")
                      }
                  }
              }
